@@ -1,10 +1,10 @@
-=== Simple Maps ===
+=== SimpleMaps ===
 Contributors: simplemaps
 Donate link: http://simplemaps.com
-Tags: world map, us map, clickable map, continent, html5 world map, google map, store locator, html5 map, interactive map, javascript, map, maps, svg map, world, us, simplemaps, simple maps, simple, canada, north america, county, map
+Tags: world map, us map, interactive map, simplemaps, clickable map
 Requires at least: 2.5
-Tested up to: 6.0
-Stable tag: 0.98
+Tested up to: 6.8.1
+Stable tag: 0.99.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
